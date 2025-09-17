@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.sungjun1116.smartdependency
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
